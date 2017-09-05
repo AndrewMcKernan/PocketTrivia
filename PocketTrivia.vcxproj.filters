@@ -13,82 +13,109 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Resource Files\ChapterQuestions">
+    <Filter Include="Resource Files\ChQs">
       <UniqueIdentifier>{6b61b95f-a6b1-4715-a1b5-54da4a5d8166}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
-    <Text Include="1.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="2.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="3.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="4.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="5.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="6.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="7.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="8.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="9.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="10.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="11.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="12.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="13.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="14.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="15.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="16.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="17.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="18.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="19.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="20.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="21.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
-    <Text Include="22.txt">
-      <Filter>Resource Files\ChapterQuestions</Filter>
-    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="2.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="3.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="4.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="5.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="6.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="7.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="8.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="9.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="10.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="11.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="12.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="13.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="14.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="15.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="16.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="17.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="18.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="19.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="20.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="21.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="22.dat">
+      <Filter>Resource Files\ChQs</Filter>
+    </None>
+    <None Include="houseofrisinsun.mid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="kawliga.mid">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="petergunn.mid">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="RedBlackTitle2.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="GreenBlackTitle1.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="clapping.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="explode.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
   </ItemGroup>
 </Project>

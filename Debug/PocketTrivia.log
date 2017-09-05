@@ -1,8 +1,5 @@
 ﻿  main.c
-d:\documents\school\comp 369\assignment 1\pockettrivia\pockettrivia\pockettrivia\main.c(108): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
-d:\documents\school\comp 369\assignment 1\pockettrivia\pockettrivia\pockettrivia\main.c(108): warning C4024: 'pack_fopen': different types for formal and actual parameter 2
-d:\documents\school\comp 369\assignment 1\pockettrivia\pockettrivia\pockettrivia\main.c(117): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
-d:\documents\school\comp 369\assignment 1\pockettrivia\pockettrivia\pockettrivia\main.c(117): warning C4024: 'ustrstr': different types for formal and actual parameter 2
-d:\documents\school\comp 369\assignment 1\pockettrivia\pockettrivia\pockettrivia\main.c(260): warning C4716: '_mangled_main': must return a value
-  PocketTrivia.vcxproj -> D:\Documents\School\COMP 369\Assignment 1\PocketTrivia\PocketTrivia\PocketTrivia\.\Debug\PocketTrivia.exe
+d:\documents\school\comp 369\assignment 1\part2\pockettrivia\pockettrivia\pockettrivia\main.c(630): warning C4716: '_mangled_main': must return a value
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PocketTrivia.vcxproj -> D:\Documents\School\COMP 369\Assignment 1\part2\PocketTrivia\PocketTrivia\PocketTrivia\.\Debug\PocketTrivia.exe
   PocketTrivia.vcxproj -> .\Debug\PocketTrivia.pdb (Full PDB)

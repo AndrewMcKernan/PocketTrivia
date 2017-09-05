@@ -163,32 +163,45 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Text Include="10.txt" />
-    <Text Include="11.txt" />
-    <Text Include="12.txt" />
-    <Text Include="13.txt" />
-    <Text Include="14.txt" />
-    <Text Include="15.txt" />
-    <Text Include="16.txt" />
-    <Text Include="17.txt" />
-    <Text Include="18.txt" />
-    <Text Include="19.txt" />
-    <Text Include="1.txt" />
-    <Text Include="20.txt" />
-    <Text Include="21.txt" />
-    <Text Include="22.txt" />
-    <Text Include="2.txt" />
-    <Text Include="3.txt" />
-    <Text Include="4.txt" />
-    <Text Include="5.txt" />
-    <Text Include="6.txt" />
-    <Text Include="7.txt" />
-    <Text Include="8.txt" />
-    <Text Include="9.txt" />
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="1.dat" />
+    <None Include="10.dat" />
+    <None Include="11.dat" />
+    <None Include="12.dat" />
+    <None Include="13.dat" />
+    <None Include="14.dat" />
+    <None Include="15.dat" />
+    <None Include="16.dat" />
+    <None Include="17.dat" />
+    <None Include="18.dat" />
+    <None Include="19.dat" />
+    <None Include="2.dat" />
+    <None Include="20.dat" />
+    <None Include="21.dat" />
+    <None Include="22.dat" />
+    <None Include="3.dat" />
+    <None Include="4.dat" />
+    <None Include="5.dat" />
+    <None Include="6.dat" />
+    <None Include="7.dat" />
+    <None Include="8.dat" />
+    <None Include="9.dat" />
+    <None Include="houseofrisinsun.mid" />
+    <None Include="kawliga.mid" />
+    <None Include="petergunn.mid" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GreenBlackTitle1.bmp" />
+    <Image Include="RedBlackTitle2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="clapping.wav" />
+    <Media Include="explode.wav" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
